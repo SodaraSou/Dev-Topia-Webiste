@@ -8,7 +8,7 @@ function Home() {
         className="hover:underline text-2xl"
         target="blank"
       >
-        ASP.NET Core Web API PostgreSQL
+        ASP.NET 8 Core Web API PostgreSQL
       </a>
     </section>
   );
